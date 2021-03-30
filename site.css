@@ -1,0 +1,33 @@
+/* site.css
+	Ella Adam
+	03/30/2021 */
+body {
+    background: rgb(229, 237, 241);
+    background-image: url(christmas.jpg);
+    height:50%;
+    font-family: Quicksand;
+}
+
+.header {
+    text-shadow: 2px 2px black;
+    padding: 2px;
+    border-radius: 50px;
+    text-align: center;
+    background: rgb(78, 34, 26);
+     /*background: linear-gradient(to top left, #fc7c7c 33%,  #b6ff6d 59%); */
+    color: white;
+}
+
+
+
+.santa {
+    float: left 30%;
+    width:20px;
+    height: 30px;
+}
+
+.deer {
+    float: right 30%;
+    width:20px;
+    height: 30px;
+}
